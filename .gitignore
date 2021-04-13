@@ -10,3 +10,5 @@
 /CleanArchitecture/.vs/CleanArchitecture
 /CleanArchitecture/CleanArchitecture.Mvc/bin/Debug/net5.0
 /CleanArchitecture/CleanArchitecture.Domain/obj
+/CleanArchitecture/CleanArchitecture.Domain,/obj
+/CleanArchitecture/CleanArchitecture.Domainl/obj
