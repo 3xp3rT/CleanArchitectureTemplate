@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CleanArchitecture.Mvc.Data
+namespace Infostructure.Data
 {
     public class ApplicationDbContext : IdentityDbContext
     {
