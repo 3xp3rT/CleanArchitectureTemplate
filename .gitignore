@@ -5,3 +5,7 @@
 /.vs/CleanArchitectureTemplate/v16/.suo
 /.vs
 /CleanArchitecture/.vs/CleanArchitecture/v16/.suo
+/CleanArchitecture/CleanArchitecture.Mvc/obj
+/CleanArchitecture/CleanArchitecture.Mvc/Properties
+/CleanArchitecture/.vs/CleanArchitecture
+/CleanArchitecture/CleanArchitecture.Mvc/bin/Debug/net5.0
