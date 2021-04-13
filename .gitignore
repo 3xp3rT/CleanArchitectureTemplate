@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CleanArchitectureTemplate/v16/.suo
+/.vs
+/CleanArchitecture/.vs/CleanArchitecture/v16/.suo
